@@ -50,7 +50,7 @@ Most of the work lives in private repos; the planets above are the part you can 
   <img src="assets/oss-note-light.svg" alt="* some things left out in the open" width="100%">
 </picture>
 
-<sub><a href="https://github.com/BariBariGood/simslim">simslim</a> — run ~4× more iOS simulators on one Mac by switching off the daemons they don't need &nbsp;·&nbsp; <a href="https://github.com/BariBariGood/releases">releases</a> — the DapsDev binaries, out in the open. the rest of the swarm's work stays private.</sub>
+<sub><a href="https://github.com/BariBariGood/simslim">simslim</a> — run ~4× more iOS simulators on one Mac by switching off the daemons they don't need &nbsp;·&nbsp; <a href="https://github.com/BariBariGood/releases">releases</a> — the DapsDev binaries, out in the open. </sub>
 
 <br><br>
 
