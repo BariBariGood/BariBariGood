@@ -31,8 +31,7 @@
 </picture>
 
 <p>
-I orchestrate fleets of AI agents — hundreds in parallel — and ship real apps in days.<br>
-Most of the work lives in private repos; the planets above are the part you can hold.
+I orchestrate fleets of AI agents and ship real apps in days.
 </p>
 
 <picture>
